@@ -1,6 +1,6 @@
 /*
 #       Sesión 2: Introducción a Compu ─ Cynthia Lisbeth
-#		Alonso Plancarte
+#    Alonso Plancarte
 #
 #       Copyright (C) Tecnológico de Monterrey
 #
